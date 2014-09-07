@@ -10,7 +10,7 @@
 ; (tip 20 0.17)  => 3.4
 ; (tip 20 0.17)  => 3
 
-(define (tip b p)(* b p))
+(define (tip bill-amount percent-of-bill)(* bill-amount percent-of-bill))
 (check-expect (tip 10 0.15) 1.5)
 (check-expect (tip 20 0.17) 3.4)
 (check-expect (tip 30 0.10) 3)

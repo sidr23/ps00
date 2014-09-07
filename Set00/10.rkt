@@ -20,3 +20,4 @@
 (check-expect (sum-2gr-num 1 3 2) 5)
 (check-expect (sum-2gr-num 2 3 1) 5)
 (check-expect (sum-2gr-num -3 -1 -2) -3)
+(check-expect (sum-2gr-num 13 -12 -2) 11)

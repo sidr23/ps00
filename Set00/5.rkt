@@ -9,7 +9,7 @@
 ;(sq -8) =>64
 ;(sq 0) => 0
 
-(define (sq a) (* a a))
+(define (sq any-number) (* any-number any-number))
 
 (check-expect (sq 4) 16)
 (check-expect (sq -8) 64)

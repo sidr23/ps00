@@ -1,0 +1,97 @@
+Date	Who			Start	Stop	Interruptions	Question		Time on Task	Comments
+7/3	Siddharth Ramanathan 	12:43	12:45			Setup		 2		Previously installed Racket 6.0.1
+8/31	Siddharth Ramanathan 	23:32	23:42			Setup		10		Sign up for a CCIS account
+8/31	Siddharth Ramanathan 	23:45	23:55			Setup		10		Sign up for CS 5010 on piazza.com at https://piazza.com/northeastern/fall2014/cs5010/home
+9/1	Siddharth Ramanathan 	11:15	11:25			Setup		10		Wireless setup-NUWave access
+9/1	Siddharth Ramanathan 	19:30	20:00			Setup		30		Office365 Download and setup
+9/2	Siddharth Ramanathan 	11:20	11:25			Setup		 5		Sign up for Github						
+9/3	Siddharth Ramanathan 	14:00	22:00	120				300		Reading Prologue and Part 1,Watching Videos
+
+Total Time On Task Setup and reading(minutes)	467
+TOTQ1(hours and tenths)   			7.8
+
+9/3	Siddharth Ramanathan 	22:30	22:35			1		10		Analysis of Q1
+9/3	Siddharth Ramanathan 	22:35	22:40			1		5		Learning to use Check-expect
+9/3	Siddharth Ramanathan 	22:45	22:55			1		10		Coding and Testing Question 1
+
+Total Time On Task Q1(minutes)                  	25 
+TOTQ1(hours and tenths)                         	0.4 
+						
+9/3	Siddharth Ramanathan 	22:57	23:00			2		3		Analysis of Q2
+9/3	Siddharth Ramanathan 	23:04	23:14			2		10		Checking for ways to test the problem with test-cases and using check-expect
+9/3	Siddharth Ramanathan 	23:20	23:30			2		10		Coding and Testing Question 2
+
+Total Time On Task Q2(minutes)                  	23
+TOTQ2(hours and tenths)                         	0.4 
+						
+9/3	Siddharth Ramanathan 	23:35	23:44			3		9		Analysis of Q3
+9/3	Siddharth Ramanathan 	23:45	00:00			3		15		Revising functions,their syntax and operations
+9/4	Siddharth Ramanathan 	00:05	00:15			3		10		Coding and Testing for Q3
+
+Total Time On Task Q3(minutes)                  	34
+TOTQ3(hours and tenths)                         	0.6 
+						
+9/4	Siddharth Ramanathan 	12:30	13:00	10		4		20		Analysis of Q4-understanding with help of examples
+9/4	Siddharth Ramanathan 	13:00	13:15			4		15		Coding and testing for Q4
+
+Total Time On Task Q4(minutes)                  	35
+TOTQ4(hours and tenths)                         	0.6 
+						
+9/4	Siddharth Ramanathan 	13:30	13:35			5		5		Analysis of Q5,Understanding the required output
+9/4	Siddharth Ramanathan 	13:35	13:40			5		5		Checking sqr-predefined function for how it works
+9/4	Siddharth Ramanathan 	13:45	14:00			5		15		Coding and Testing of Q5
+
+Total Time On Task Q5(minutes)                  	25
+TOTQ5(hours and tenths)                         	0.4
+						
+9/4	Siddharth Ramanathan 	18:00	18:30	15		6		15		Understanding quadratic equations,revising concepts
+9/4	Siddharth Ramanathan 	18:30	18:45			6		15		Checking the code for quadratic equations,returning two roots
+9/4	Siddharth Ramanathan 	18:45	19:15			6		30		Above condition not possible, so trying to understand problem
+9/4	Siddharth Ramanathan 	19:15	19:20			6		5		Finding the correct intrerpretation of the problem
+9/4	Siddharth Ramanathan 	19:20	19:30			6		10		Coding problem returning one root,test cases checking.
+
+
+Total Time On Task Q6(minutes)                  	75
+TOTQ6(hours and tenths)                         	1.2
+						
+9/5	Siddharth Ramanathan	11:15	11:30			7		15		Understanding question 7,Analysis
+9/5	Siddharth Ramanathan	11:30	11:40			7		10		Coding and checking test cases for Q7
+
+Total Time On Task Q7(minutes)                  	25
+TOTQ7(hours and tenths)                         	0.4
+						
+9/5	Siddharth Ramanathan	11:45	11:50			8		5		Analysis of Q8
+9/5	Siddharth Ramanathan	11:50	12:05	5		8		10		Checking the function defined using the test cases
+
+Total Time On Task Q8(minutes)                  	15
+TOTQ8(hours and tenths)                         	0.2
+						
+9/5	Siddharth Ramanathan	13:30	13:45			9		15		Checking modulo and remainder. Difference spotted in the case of negative numbers
+9/5	Siddharth Ramanathan	13:45	13:55			9		10		Analysis of Q 9,checking the predefined function even
+9/5	Siddharth Ramanathan	13:55	14:10			9		15		Coding and testing Q 9
+
+Total Time On Task Q9(minutes)                  	40
+TOTQ9(hours and tenths)                         	0.6
+						
+9/5	Siddharth Ramanathan	14:15	14:30			10		15		Checking the way for reaching the output logically
+9/5	Siddharth Ramanathan	14:30	15:00	 5		10		25		Mathematical representation and conversion of it to code
+9/5	Siddharth Ramanathan	15:00	15:30	15		10		15		Coding and testing Q10
+
+Total Time On Task Q10(minutes)                  	55
+TOTQ10(hours and tenths)                         	0.9
+
+==================initial commit to git: 9/6 18:10 ======================
+
+9/6	Siddharth Ramanathan 	21:30	22:30		    Git Repository Setup	 5		Github Lab 
+
+==================Committing all files to git: 9/6 23:00 ======================
+9/6	Siddharth Ramanathan	23:10	23:25			4		5		Changing variable names for bill-amount and percent-of-tip 
+9/6	Siddharth Ramanathan	23:25	23:30			5		5		Changing variable name to any-number
+9/7	Siddharth Ramanathan	11:40	11:50			5		10		Changing variable name to any-number
+9/7	Siddharth Ramanathan	14:50	15:00			5		10		Changing variable name to any-number
+
+Total Time On Task Revision(minutes)		30
+TOTQR(hours and tenths)			0.5
+==================Committing changes to git: 9/7 15:46======================
+
+==================Committing notebook.txt to git: 9/7 15:46======================

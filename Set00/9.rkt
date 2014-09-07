@@ -11,10 +11,11 @@
 ; (even-no? -1) => False
 ; (even-no? -2) => True
 
-(define(even-no? a) ( = (remainder a 2) 0))
+(define(even-no? any-number) ( = (remainder any-number 2) 0))
 
 (check-expect (even-no? 1) false)
 (check-expect (even-no? 0) true)
 (check-expect (even-no? 2) true)
 (check-expect (even-no? -1) false)
 (check-expect (even-no? -2) true)
+
